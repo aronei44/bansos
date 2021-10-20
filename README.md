@@ -8,6 +8,6 @@ Nama : Muhamad Arwani Maulana
 
 Kelas Belajar : Laravel
 
-Link Video : 
+Link Video : https://youtu.be/pFA0kRjPIfI
 
 Link Deploy : https://aronei44.github.io/bansos
