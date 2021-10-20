@@ -25,7 +25,7 @@ import Notfound from './Notfound'
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename='/bansos'>
         <Navbar className="bg-yellow">
           <Container>
             <Link to="/">
