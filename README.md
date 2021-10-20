@@ -10,4 +10,4 @@ Kelas Belajar : Laravel
 
 Link Video : 
 
-Link Deploy :
+Link Deploy : https://aronei44.github.io/bansos
